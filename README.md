@@ -12,5 +12,5 @@ Una de las ideas clave de la plataforma es que **un dispositivo podrá unirse co
 En algunos juegos donde "la pantalla" no sea necesaria, servirá para mostrar caracteristicas de la partida (Clasificación, Jugadores eliminados...).
 
 ## 🎯 Objetivo
-Crear una experiencia de juego accesible, interactiva y social, permitiendo que múltiples usuarios participen.
+Crear una experiencia de juego accesible, interactiva y social, permitiendo que múltiples usuarios participen fácilmente desde distintos dispositivos.
 
